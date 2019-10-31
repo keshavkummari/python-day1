@@ -1,0 +1,65 @@
+
+Agenda :
+
+1. What is Python
+
+2. Why Python?
+
+3. Who uses Python?
+
+4. Where you can see in python world
+
+5. Basics of Python
+
+
+
+# Comments In Python Programming
+'Python Was Created By Guido Van Rossum'
+"Python Was Created in 1989"
+'''First Version Was Released in 1991'''
+"""Python is General Purpose and Highlevel Programming Language"""
+
+FirstName = 'Guido'
+
+print(FirstName)
+
+#1's and 0's
+
+# MacOS -- Python --- IDE(Visual Studio Code)---File(hellWorld.py)---python hellWorld.py
+
+# Python ByteCode---> Python Virtual Machine--->Machine Code --- 
+
+# C Code ---> Compiler ----> Machine Code(1's and 0's)
+# Java Code ----> Compiler ---> Java ByteCode ---- Java Virtual Machine --- Machine Code(1's 0's)
+# Python Code ----> Python ByteCode --- Python Virtual Machine--->Machine Code(1's and 0's)
+# Python Code ----> Cpyhton --- Python Virtual Machine--->Machine Code(1's and 0's)
+# Python Code ----> Jython  --- Python Virtual Machine--->Machine Code(1's and 0's)
+
+
+
+Various Use Cases with Python :
+
+1. SysOps - Administration - Windows | Unix | Linux 
+    - Manual Activities ---- You Can Automate
+
+2. QA/Testing  - 
+    - Python with Automation modules i.e. selenium 
+
+3. DB Developer / DB Admin / Dataware :
+    - Day to Day Batch jobs etc...
+
+4. Developer :
+    1. WebApplications - Static, Dynamic and Event Driven etc... 
+    Python with Django 
+
+5. DevOps :
+    CI/CD Pipeline for any kind application 
+    - Code commit to Code Deploy 
+    - Python Boto3 - Linux or Windows or Database or storage etc... 
+
+6. Cloud : 
+    - Python Boto3 - Linux or Windows or Database or storage etc...
+
+7. AI          : 
+8. ML          :
+9. DataScience : 
